@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\TRAB2C\bin\Debug\net8.0\TRAB2C.exe
+C:\Users\USUARIO\Desktop\TRAB2C\bin\Debug\net8.0\TRAB2C.deps.json
+C:\Users\USUARIO\Desktop\TRAB2C\bin\Debug\net8.0\TRAB2C.runtimeconfig.json
+C:\Users\USUARIO\Desktop\TRAB2C\bin\Debug\net8.0\TRAB2C.dll
+C:\Users\USUARIO\Desktop\TRAB2C\bin\Debug\net8.0\TRAB2C.pdb
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.dll
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\refint\TRAB2C.dll
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.pdb
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\TRAB2C.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\TRAB2C\obj\Debug\net8.0\ref\TRAB2C.dll
